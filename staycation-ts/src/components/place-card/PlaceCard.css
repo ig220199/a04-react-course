@@ -1,0 +1,51 @@
+.place-card__card {
+    padding: 20px;
+}
+
+.place-card__card h3 {
+    margin: 10px 0;
+}
+
+.place-card__card p {
+    margin: 10px 0;
+    color: #1A3440;
+    font-weight: bold;
+}
+
+.place-card__card span {
+    margin: 10px 0;
+    color: #adadad;
+}
+
+.place-card__img-container {
+    width: 300px;
+    height: 265px;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.place-card__img-container img {
+    width: 100%;
+}
+
+.place-card__edit-btn {
+    outline: none;
+    border: none;
+    background: #fff;
+    text-transform: uppercase;
+    color: #40E0D0;
+    margin-right: 20px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.place-card__delete-btn {
+    outline: none;
+    border: none;
+    background: #fff;
+    text-transform: uppercase;
+    color: #EF6B6B;
+    margin-right: 20px;
+    cursor: pointer;
+    font-weight: 500;
+}

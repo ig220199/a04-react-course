@@ -1,0 +1,25 @@
+.accommodation-details__container {
+    padding: 20px;
+}
+
+.accommodation-details__container h1 {
+    margin: 0 0 15px 0;
+}
+
+.accommodation-details__container p {
+    margin: 10px 0 35px;
+    color: #7C7C7C;
+}
+
+.accommodation-details__free-cancellation img {
+    margin: 0 10px -5px 0;
+}
+
+.accommodation-details__free-cancellation b {
+    color: #1A3440;
+}
+
+.accommodation-details__container pre {
+    white-space: pre-wrap;
+    font-family: "Roboto";
+}

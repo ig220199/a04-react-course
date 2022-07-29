@@ -1,0 +1,28 @@
+.header__container {
+    position: relative;
+    height: 380px;
+    background-image: url('../../assets/images/header-image.png');
+    background-size: cover;
+}
+
+.header__slogan {
+    position: absolute;
+    width: 65%;
+    top: 50px;
+    left: 50px;
+}
+
+.header__slogan h2 {
+    color: #fff;
+    font-size: 50px;
+}
+
+.header__slogan h3 {
+    color: #fff;
+    font-size: 35px;
+}
+
+.header__slogan h4 {
+    color: #1A3440;
+    font-size: 20px;
+}
