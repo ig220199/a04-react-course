@@ -11,7 +11,7 @@ const AccommodationScreen: React.FC = () => {
         type: "Room",
         categorization: 5,
         personCount: 2,
-        imageUrl: "",
+        imageUrl: "https://cdn.pixabay.com/photo/2021/06/01/12/39/beach-6301597_960_720.jpg",
         freeCancelation: true,
         price: 500,
         location: "Mýkonos City",
