@@ -20,7 +20,7 @@ const AccomodationCard: React.FC = () => {
         let content = [];
 
         for(let i = 0; i < categorization; i++) {
-            content.push(<img src={ startImage } />);
+            content.push(<img src={ startImage } key={i}/>);
         }
 
         return content;
