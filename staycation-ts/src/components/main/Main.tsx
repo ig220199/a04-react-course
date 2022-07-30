@@ -15,10 +15,8 @@ const Main: React.FC = () => {
             <CityCard/>
             <AccomodationCard/>
             <PlaceCard />
-            <Footer/>
-            <hr />
-            <hr />
             <AccommodationScreen />
+            <Footer/>
         </>
     );
 }
