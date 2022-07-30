@@ -10,10 +10,10 @@ const AccomodationCard: React.FC = () => {
         price: number,
         categorization: number
     } = {
-        "title": "Sugar & Spice Apartments",
-        "location": "Split",
-        "price": 75,
-        "categorization": 3
+        title: "Sugar & Spice Apartments",
+        location: "Split",
+        price: 75,
+        categorization: 3
     };
 
     const categorizationRender = (categorization: number) => {

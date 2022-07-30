@@ -8,8 +8,8 @@ const CityCard: React.FC = () => {
         name: string,
         count: number
     } = {
-        "name": "London",
-        "count": 5102
+        name: "London",
+        count: 5102
     };
 
     return (

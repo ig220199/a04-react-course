@@ -9,9 +9,9 @@ const PlaceCard: React.FC = () => {
         location: string,
         subtitle: string
     } = {
-        "title": "Treehouse",
-        "location": "Hrusice",
-        "subtitle": "Renting entire unit"
+        title: "Treehouse",
+        location: "Hrusice",
+        subtitle: "Renting entire unit"
     };
 
     return(
