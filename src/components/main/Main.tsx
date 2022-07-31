@@ -6,17 +6,18 @@ import CityCard from "../city-card/CityCard";
 import AccomodationCard from "../accomodation-card/AccomodationCard";
 import PlaceCard from "../place-card/PlaceCard";
 import AccommodationScreen from "../accomodation-screen/AccommodationScreen";
-import PopularLocations from "../popular-locations/PopularLocations";
-import HomesGuestsLove from "../homes-guests-love/HomesGuestsLove";
+import SectionHeader from "../section-header/SectionHeader";
 
 const Main: React.FC = () => {
     return (
         <>
             <Navigation/>
             <Header/>
-            <PopularLocations />
+            <SectionHeader title="Popular locations"
+                           arrowLabel="View all locations" />
             <CityCard/>
-            <HomesGuestsLove />
+            <SectionHeader title="Homes guests love"
+                           arrowLabel="View all homes" />
             <AccomodationCard/>
             <PlaceCard />
             <AccommodationScreen />
