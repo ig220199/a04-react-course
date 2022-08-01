@@ -1,0 +1,22 @@
+.accommodation-header {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 10px;
+    background: #d1d1d1;
+    overflow: hidden;
+}
+
+.accommodation-header img {
+    width: 100%;
+}
+
+.accommodation-screen__container {
+    padding: 20px;
+}
+
+.accommodation-screen__flex {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}

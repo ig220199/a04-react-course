@@ -1,0 +1,27 @@
+.accommodation-card__card {
+    padding: 20px;
+}
+
+.accommodation-card__card h3 {
+    margin: 10px 0;
+}
+
+.accommodation-card__card span {
+    margin: 10px 0;
+    color: #adadad;
+}
+
+.accommodation-card__card p {
+    margin: 10px 0;
+}
+
+.accommodation-card__img-container {
+    width: 300px;
+    height: 265px;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.accommodation-card__img-container img {
+    width: 100%;
+}

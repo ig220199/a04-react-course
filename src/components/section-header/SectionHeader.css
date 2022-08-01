@@ -1,0 +1,20 @@
+.section-header__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.section-header__container h2 {
+    font-weight: normal;
+    margin: 0;
+}
+
+.section-header__container a {
+    color: #40E0D0;
+    cursor: pointer;
+}
+
+.section-header__container a img {
+    margin: 0 0 -3px 5px;
+}
